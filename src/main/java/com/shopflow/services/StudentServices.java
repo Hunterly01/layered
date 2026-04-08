@@ -14,5 +14,5 @@ public class StudentServices {
     public Student getStudent(int id) {
         return studentRepository.findById(id);
 
-    }git
+    }gir
 }
